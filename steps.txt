@@ -1,0 +1,8 @@
+Step 1: Create a new django model for storing the user profile feed item in the database
+Step 2: Migrate the Database
+Step 3: Register this model in django admin in admin.py
+Step 4: Create a serializer for the ProfileFeedItem object
+Step 5: Create a ViewSet for ProfileFeedItem model
+Step 6: Setup URL
+
+Handling Anonymous user error by creating custom permission class
