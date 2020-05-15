@@ -6,3 +6,7 @@ Step 5: Create a ViewSet for ProfileFeedItem model
 Step 6: Setup URL
 
 Handling Anonymous user error by creating custom permission class
+
+
+Live server url
+http://ec2-52-66-237-162.ap-south-1.compute.amazonaws.com/
